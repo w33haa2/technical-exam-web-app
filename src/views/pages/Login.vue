@@ -28,7 +28,7 @@
                     <CButton type="submit" :disabled="getLogInState.initial" color="primary" class="px-4">Login</CButton>
                   </CCol>
                   <CCol col="6" class="text-right">
-                    <CButton color="link" class="d-md-none">Register now!</CButton>
+                    <!-- <CButton color="link" class="d-md-none">Register now!</CButton> -->
                   </CCol>
                 </CRow>
               </CForm>
@@ -40,14 +40,14 @@
             class="text-center py-5 d-sm-down-none"
             body-wrapper
           >
-            <h2>Sign up</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <CButton
+            <h2>Technical Exam</h2>
+            <p>Ordering System Sample Application.</p>
+            <!-- <CButton
               color="primary"
               class="active mt-3"
             >
               Register Now!
-            </CButton>
+            </CButton> -->
           </CCard>
         </CCardGroup>
       </CCol>
